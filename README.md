@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by:Ajay Surya S
-Registeration Number :212221040009
+Developed by:Akash A
+Registeration Number :212221040010
 */
 ```
 Main activity:
